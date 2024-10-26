@@ -1,2 +1,2 @@
 # OOP2-Assignment-Two
-Java application with with radio buttons.
+Java application with radio buttons.
